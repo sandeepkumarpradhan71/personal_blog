@@ -1,4 +1,4 @@
-# Rishik's Personal Portfolio Website
+# Sandeep's Personal Portfolio Website
 
 Welcome to my Personal Portfolio Website! 
 This website was created using ReactJs and NodeJs
